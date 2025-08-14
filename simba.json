@@ -1,0 +1,13 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "simba:simba",
+            "is_summonable": true
+        },
+        "components": {
+            "minecraft:movement.basic": {},
+            "minecraft:behavior.random_stroll": {}
+        }
+    }
+}
